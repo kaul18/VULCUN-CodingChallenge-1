@@ -2,6 +2,8 @@
 
 ## PLEASE DO NOT MAKE PRs OR CREATE BRANCHES HERE
 
+### Chat application online at http://www.davstartups.com/chat_application
+
 ### Part 1
 1. Create an users table with the following fields and insert 10 million random rows into the table
   - id
