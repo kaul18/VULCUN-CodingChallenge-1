@@ -1,0 +1,27 @@
+.margin{
+	margin:20px;
+}
+.msg{
+	width:400px;
+	word-wrap:break-word;
+	/*overflow:hidden;*/
+}
+.chats{
+	height:350px;
+	background-color:#bdbdbd;
+	border:1px #777 solid;
+	border-radius:1px;
+	overflow:scroll;
+	word-wrap:break-word;
+}
+.chats1{
+	margin:20px;
+}
+.search{
+	width:300px;
+}
+#search_box{
+	margin-right:auto;
+	width:400px;
+	height:35px;
+}
